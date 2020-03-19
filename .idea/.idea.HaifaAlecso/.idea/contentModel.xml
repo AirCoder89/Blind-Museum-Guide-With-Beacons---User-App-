@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kira3\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kira3\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_HaifaAlecso.500932724.00" t="ExcludeRecursive" />
+    <e p="E:\unity Projects\HaifaAlecso\HaifaAlecso26\HaifaAlecso" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demigiant" t="Include">
+          <e p="DemiLib" t="Include">
+            <e p="Core" t="Include">
+              <e p="DemiLib.xml" t="Include" />
+              <e p="Editor" t="Include">
+                <e p="DemiEditor.xml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="DOTween" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="DOTweenPro" t="Include">
+            <e p="DOTweenAnimation.cs" t="Include" />
+            <e p="DOTweenProShortcuts.cs" t="Include" />
+            <e p="DOTweenTextMeshPro.cs" t="Include" />
+            <e p="DOTweenTk2d.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DOTweenAnimationInspector.cs" t="Include" />
+              <e p="DOTweenPreviewManager.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="readme_DOTweenPro.txt" t="Include" />
+        </e>
+        <e p="EGGA" t="Include">
+          <e p="UPersian" t="Include">
+            <e p="Example" t="Include">
+              <e p="UPersianTextExample.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Components" t="Include">
+                <e p="RtlText.cs" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="UPersianContext.cs" t="Include" />
+              </e>
+              <e p="EGG.cs" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="UPersianUtils.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Firebase" t="Include">
+          <e p="Editor" t="Include">
+            <e p="AppDependencies.xml" t="Include" />
+            <e p="AuthDependencies.xml" t="Include" />
+            <e p="FirebaseAuth_v1.1.2_manifest.txt" t="Include" />
+            <e p="FirebaseStorage_version-6.2.2_manifest.txt" t="Include" />
+            <e p="StorageDependencies.xml" t="Include" />
+          </e>
+          <e p="m2repository" t="Include">
+            <e p="com" t="Include">
+              <e p="google" t="Include">
+                <e p="Firebase" t="Include">
+                  <e p="firebase-app-unity" t="Include">
+                    <e p="maven-metadata.xml" t="Include" />
+                  </e>
+                  <e p="firebase-auth-unity" t="Include">
+                    <e p="maven-metadata.xml" t="Include" />
+                  </e>
+                  <e p="firebase-storage-unity" t="Include">
+                    <e p="maven-metadata.xml" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="iBeacon" t="Include">
+          <e p="Example" t="Include">
+            <e p="Source" t="Include">
+              <e p="Example.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="Android" t="Include">
+              <e p="Android Beacon Library License.txt" t="Include" />
+              <e p="AndroidManifest.xml" t="Include" />
+            </e>
+            <e p="iOS" t="Include">
+              <e p="Eddystone License.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Source" t="Include">
+            <e p="Beacon.cs" t="Include" />
+            <e p="BeaconPropertyAttribute.cs" t="Include" />
+            <e p="BluetoothState.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="BeaconPropertyDrawer.cs" t="Include" />
+              <e p="iBeaconMenu.cs" t="Include" />
+              <e p="PostProcessBuildTrigger.cs" t="Include" />
+            </e>
+            <e p="iBeaconException.cs" t="Include" />
+            <e p="iBeaconReceiver.cs" t="Include" />
+            <e p="iBeaconRegion.cs" t="Include" />
+            <e p="iBeaconServer.cs" t="Include" />
+            <e p="Telemetry.cs" t="Include" />
+          </e>
+        </e>
+        <e p="JsonDotNet" t="Include">
+          <e p="link.xml" t="Include" />
+        </e>
+        <e p="PlayServicesResolver" t="Include">
+          <e p="Editor" t="Include">
+            <e p="play-services-resolver_v1.2.122.0.txt" t="Include" />
+          </e>
+        </e>
+        <e p="RestClient" t="Include">
+          <e p="packages" t="Include">
+            <e p="Proyecto26.RestClient" t="Include">
+              <e p="Helpers" t="Include">
+                <e p="Common.cs" t="Include" />
+                <e p="Extensions.cs" t="Include" />
+                <e p="HttpBase.cs" t="Include" />
+                <e p="JsonHelper.cs" t="Include" />
+                <e p="RequestException.cs" t="Include" />
+                <e p="RequestHelper.cs" t="Include" />
+                <e p="RequestHelperExtension.cs" t="Include" />
+                <e p="ResponseHelper.cs" t="Include" />
+                <e p="StaticCoroutine.cs" t="Include" />
+              </e>
+              <e p="RestClient.cs" t="Include" />
+              <e p="RestClientPromise.cs" t="Include" />
+            </e>
+            <e p="RSG.Promise" t="Include">
+              <e p="EnumerableExt.cs" t="Include" />
+              <e p="Exceptions" t="Include">
+                <e p="PromiseException.cs" t="Include" />
+                <e p="PromiseStateException.cs" t="Include" />
+              </e>
+              <e p="Promise.cs" t="Include" />
+              <e p="Promise_NonGeneric.cs" t="Include" />
+              <e p="PromiseHelpers.cs" t="Include" />
+              <e p="PromiseTimer.cs" t="Include" />
+              <e p="Tuple.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AudioManager.cs" t="Include" />
+          <e p="AutoModePopUp.cs" t="Include" />
+          <e p="BeaconScript.cs" t="Include" />
+          <e p="BeaconsManager.cs" t="Include" />
+          <e p="BlinBeaconItem.cs" t="Include" />
+          <e p="BlindAutoMode.cs" t="Include" />
+          <e p="BlindLocalMode.cs" t="Include" />
+          <e p="DBManager.cs" t="Include" />
+          <e p="LoadingScript.cs" t="Include" />
+          <e p="MLController.cs" t="Include" />
+          <e p="MLText.cs" t="Include" />
+          <e p="NonBlindAutoMode.cs" t="Include" />
+          <e p="NonBlindPopUp.cs" t="Include" />
+          <e p="PlayBtn.cs" t="Include" />
+          <e p="SplashScreen.cs" t="Include" />
+          <e p="StorageHandler2.cs" t="Include" />
+          <e p="TchizouMizou.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+          <e p="UIPanel.cs" t="Include" />
+        </e>
+        <e p="Talkback" t="Include">
+          <e p="Talkback.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HaifaAlecso.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

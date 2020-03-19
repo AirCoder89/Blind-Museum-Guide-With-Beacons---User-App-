@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049448271533",
+    "firebase_url": "https://adminappalecso.firebaseio.com",
+    "project_id": "adminappalecso",
+    "storage_bucket": "adminappalecso.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049448271533:android:3cd5be1d735620bde70024",
+        "android_client_info": {
+          "package_name": "com.AirCoder.ArchedniHadharati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049448271533-c4e4cqaohsn3r854kgfi0hhfr0j9rrv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3AVRWlEJFoC7c6P41qMZZtxy8Yaaz30M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049448271533-c4e4cqaohsn3r854kgfi0hhfr0j9rrv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
