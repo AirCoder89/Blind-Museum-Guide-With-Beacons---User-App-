@@ -1,4 +1,4 @@
-# أرشدني حضارتي - Blind Museum Guide With Beacons
+# Blind Museum Guide With Beacons - أرشدني حضارتي - Client
 
 <table>
   <tr>
@@ -14,6 +14,8 @@
 ---
 
 Welcome to "أرشدني حضارتي" (Guide Me, My Civilization), an innovative app designed to assist blind and visually impaired visitors navigate through museums using beacon technology. By detecting nearby beacons, the app provides auditory information about exhibits, helping users independently explore cultural heritage.
+
+**This is the client app, designed for museum visitors. For beacon management and audio content creation, please refer to the admin app.**
 
 ## Features
 
